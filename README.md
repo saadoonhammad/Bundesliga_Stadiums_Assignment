@@ -1,6 +1,6 @@
 # Bundesliga_Stadiums_Assignment
 
-This is a basic course assignment to use leaflet.
+This is a basic course assignment to use leaflet and dynamically create a list of stadiums information.
 
 In this assignmet following task have been done:
 
